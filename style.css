@@ -1,0 +1,9 @@
+body {
+  background: url("./image1.jpg");
+  background-size: cover;
+}
+.text {
+  text-align: center;
+  color: aliceblue;
+  font-size: 2em;
+}
