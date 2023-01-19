@@ -1,0 +1,53 @@
+body {
+  background: url("./image1.jpg");
+  background-size: cover;
+}
+.text {
+  text-align: center;
+  color: aliceblue;
+  font-size: 2em;
+}
+#count {
+  color: black;
+}
+#results {
+  text-align: center;
+  color: black;
+  font-size: 3em;
+  font-weight: 700;
+}
+.save-btn {
+  background-color: #90dc17;
+  font-weight: 800;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.resest-btn {
+  background-color: rgb(39, 39, 223);
+  font-weight: 800;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.decrement-btn {
+  background-color: rgb(230, 50, 50);
+  font-weight: 800;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.increment-btn {
+  background-color: #10b610;
+  font-weight: 800;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.increment-btn:hover {
+  background-color: #13c013;
+}
