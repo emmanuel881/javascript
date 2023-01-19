@@ -10,6 +10,6 @@ function sub() {
   document.getElementById("count").innerHTML = count;
 }
 function save() {
-  let countstr = count + "_";
+  let countstr = count + " _ ";
   countEL.innerText += countstr;
 }
