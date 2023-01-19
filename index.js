@@ -11,5 +11,7 @@ function sub() {
 }
 function save() {
   let countstr = count + " _ ";
-  countEL.innerText += countstr;
+  countEL.textContent += countstr;
+  document.getElementById("count").innerHTML = 0;
+  count = 0;
 }
