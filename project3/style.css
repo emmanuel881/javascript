@@ -1,0 +1,15 @@
+.calc {
+  background-color: rgb(212, 196, 196);
+  padding: 3px;
+  width: 45%;
+}
+.screen {
+  background-color: black;
+  margin: 10px;
+  height: 50px;
+  width: 45%;
+}
+.compute {
+  display: flex;
+  align-items: center;
+}

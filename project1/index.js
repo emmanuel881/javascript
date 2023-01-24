@@ -1,5 +1,6 @@
 let count = 0;
 let countEL = document.getElementById("results");
+console.log(countEL);
 function add() {
   count++;
 

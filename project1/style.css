@@ -31,6 +31,7 @@ body {
   padding: 10px;
   cursor: pointer;
   font-size: 16px;
+  border-radius: 8px;
 }
 .decrement-btn {
   background-color: rgb(230, 50, 50);
@@ -39,6 +40,7 @@ body {
   padding: 10px;
   cursor: pointer;
   font-size: 16px;
+  border-radius: 8px;
 }
 .increment-btn {
   background-color: #10b610;
@@ -47,6 +49,7 @@ body {
   padding: 10px;
   cursor: pointer;
   font-size: 16px;
+  border-radius: 8px;
 }
 .increment-btn:hover {
   background-color: #13c013;

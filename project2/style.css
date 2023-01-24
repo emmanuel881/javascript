@@ -1,0 +1,27 @@
+* {
+  background: rgb(38, 92, 38);
+}
+#tit h1 {
+  color: rgb(179, 158, 2);
+  text-align: center;
+}
+#tit {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  font-style: italic;
+  color: #fff;
+  padding: 20px;
+}
+.start-btn {
+  border: none;
+  padding: 8px;
+  background-color: red;
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+.start-btn:hover {
+  font-size: 20px;
+}
